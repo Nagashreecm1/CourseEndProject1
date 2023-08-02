@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\CourseEndProject1\bin\Debug\CourseEndProject1.exe.config
+C:\dialytask\Assisted Practice\CourseEndProject1\bin\Debug\CourseEndProject1.exe
+C:\dialytask\Assisted Practice\CourseEndProject1\bin\Debug\CourseEndProject1.pdb
+C:\dialytask\Assisted Practice\CourseEndProject1\obj\Debug\CourseEndProject1.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\CourseEndProject1\obj\Debug\CourseEndProject1.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\CourseEndProject1\obj\Debug\CourseEndProject1.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\CourseEndProject1\obj\Debug\CourseEndProject1.exe
+C:\dialytask\Assisted Practice\CourseEndProject1\obj\Debug\CourseEndProject1.pdb
